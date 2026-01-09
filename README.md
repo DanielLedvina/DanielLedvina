@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Current role: Front-end developer / UX&UI designer<br>📚 I'm currently learning: AWS Cloud Practitioner<br>🎯 Goals: Full-stack developer
+👨‍💻Current role: Front-end developer / UX&UI designer<br>📚 I'm currently learning: Full stack app<br>🎯 Goals: Full-stack developer
 
 
 ## 🌐 Socials:
