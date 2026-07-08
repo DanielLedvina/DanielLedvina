@@ -8,7 +8,6 @@ I bridge the gap between design and code. I focus on building user-centric inter
 
 ### 💫 About Me:
 - 🔭 **Current role:** Building seamless experiences as a Front-end Dev & Designer.
-- 📚 **Learning:** Deep diving into **AI Engineering** and Backend patterns.
 - 🎯 **Goals:** Transitioning to **Full-stack Development**.
 - ✍️ **Writing:** I share my journey on [dev.to](https://dev.to/danielledvina).
 
